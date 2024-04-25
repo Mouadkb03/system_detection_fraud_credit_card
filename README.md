@@ -69,10 +69,7 @@ L'application web requiert l'installation de Node.js pour le back-end et ReactJS
 
 ## Date de Sortie Prévue
 
-Le système, nommé "NOM_APPLICATION", sera disponible le 1er Septembre 2024. Restez à l'écoute pour plus de détails !
+Le système, nommé "NOM_APPLICATION", sera disponible le 1er MAI 2024. Restez à l'écoute pour plus de détails !
 
 Une fois la version finale prête, le lien de l'application sera fourni pour y accéder une fois déployée.
 
----
-
-N'oubliez pas de remplacer "NOM_APPLICATION" par le nom réel de votre application une fois qu'il sera décidé. De plus, assurez-vous d'ajouter le lien vers l'application une fois qu'elle sera déployée.
