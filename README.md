@@ -24,8 +24,6 @@ Push to the branch: git push origin my-new-feature
 ## Aperçu du Projet
 
 Ce dépôt contient le code source et la documentation pour un système de détection de fraude sur les cartes de crédit. Il est en cours de développement par :
-
-- Ayoub AMRANI
 - AKRAM LOULIDI LAHKIM
 - MOUAD EL KABIR
 
